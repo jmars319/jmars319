@@ -12,4 +12,3 @@ Full-stack web developer specializing in modern business systems.
 - Midway Mobile Storage - Business platform
 
 🌐 [jamarq.digital](https://jamarq.digital)
-```
