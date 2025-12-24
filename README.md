@@ -2,7 +2,7 @@
 
 Full-stack web developer and systems builder focused on delivering stable, production-ready business software.
 
-I work with small and mid-sized businesses that need systems they can actually run — not fragile prototypes or over-engineered stacks.
+I work with small and mid-sized businesses that need systems they can actually run - not fragile prototypes or over-engineered stacks.
 
 **Philosophy:** ship clear systems, reduce ambiguity, and stop when it’s correct.
 
@@ -25,8 +25,8 @@ I work with small and mid-sized businesses that need systems they can actually r
 
 ## How to Engage
 I take on work in two primary ways:
-- **System rebuilds or clean starts** — replacing fragile or unclear setups with a finished, maintainable system
-- **Targeted stabilization** — fixing specific failures (media, deployment, admin workflows) and locking the system once it’s correct
+- **System rebuilds or clean starts** - replacing fragile or unclear setups with a finished, maintainable system
+- **Targeted stabilization** - fixing specific failures (media, deployment, admin workflows) and locking the system once it’s correct
 
 Engagements are scoped, shipped, and concluded cleanly. Ongoing support is available when it makes operational sense.
 
