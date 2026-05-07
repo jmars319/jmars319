@@ -1,40 +1,124 @@
 # Jason Marshall
 
-Full-stack web developer and systems builder focused on delivering stable, production-ready business software.
+Systems builder focused on durable software, operational clarity, and human-centered tooling.
 
-I work with small and mid-sized businesses that need systems they can actually run - not fragile prototypes or over-engineered stacks.
+I build production systems, developer tools, creator infrastructure, and business platforms designed to survive real-world use without becoming fragile or over-engineered.
 
-**Philosophy:** ship clear systems, reduce ambiguity, and stop when it’s correct.
+My work sits at the intersection of:
+- operational software
+- local-first and privacy-conscious tooling
+- creator infrastructure
+- deployment and systems reliability
+- human-readable workflows over abstraction-heavy complexity
 
-## How I Work
-- Design for real operational use, not demos  
-- Favor boring, proven tools with predictable failure modes  
-- Lock releases decisively instead of iterating endlessly  
-- Treat deployment, data integrity, and safety as first-class concerns  
+> Ship clear systems. Reduce ambiguity. Stop when it’s correct.
+
+---
+
+## Current Focus
+
+### JAMARQ Digital
+Production-grade business systems and operational infrastructure.
+
+Focused on:
+- real-world deployment reliability
+- admin tooling
+- media and workflow systems
+- environment-safe delivery
+- long-term maintainability
+
+🌐 https://jamarq.digital
+
+---
+
+### tenra
+Human-centered software systems for individuals and small teams.
+
+Focused on:
+- privacy-respecting tooling
+- local-first workflows
+- operational clarity
+- durable web infrastructure
+- AI-assisted systems with explicit human oversight
+
+Projects currently include:
+- operational coordination tools
+- AI-assisted workflow systems
+- search and information-orientation tooling
+- developer-facing structured Q&A systems
+
+🌐 https://tenra.dev
+
+---
+
+### vaexcore
+Creator infrastructure and live-production tooling.
+
+Focused on:
+- streaming systems
+- recording and media pipelines
+- moderation and automation tooling
+- highlight discovery systems
+- lightweight creator-first production software
+
+---
 
 ## Technical Focus
-- **Frontend:** React, TypeScript, Tailwind CSS  
-- **Backend:** PHP, Node.js, REST APIs, MySQL  
-- **Infrastructure & Ops:** Git, Cloudflare, Vercel, GoDaddy, AWS  
-- **Specialties:** media pipelines, admin tooling, deployment workflows, environment safety  
 
-## Active Projects
-- **Thunder Road Bar & Grill** - custom site, menu system, media pipeline, admin tools  
-- **Midway Mobile Storage** - business platform and operational website  
-- **Midway Music Hall** - large-scale venue system (events, seating, media, admin)  
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Electron / Tauri
 
-## How to Engage
-I take on work in two primary ways:
-- **System rebuilds or clean starts** - replacing fragile or unclear setups with a finished, maintainable system  
-- **Targeted stabilization** - fixing specific failures (media, deployment, admin workflows) and locking the system once it’s correct  
+### Backend & Infrastructure
+- Node.js
+- PHP
+- REST APIs
+- MySQL
+- Cloudflare
+- Vercel
+- AWS
+- Linux-based deployment environments
 
-Engagements are scoped, shipped, and concluded cleanly. Ongoing support is available when it makes operational sense.
+### Systems Work
+- deployment workflows
+- operational tooling
+- media pipelines
+- environment safety
+- admin systems
+- infrastructure debugging
+- production stabilization
 
-## Business Structure
-- **JAMARQ Digital** - client delivery and flagship production systems  
-  Focused on building and maintaining complete, real-world business platforms under clear operational constraints.  
-  🌐 https://jamarq.digital
+---
 
-- **Tenra** - privacy-respecting systems studio for individuals and small teams  
-  Focused on helping people own their web presence outside extractive platforms, using simple, durable tooling designed to last.  
-  🌐 https://tenra.dev
+## Selected Systems
+
+- **Midway Music Hall**  
+  Venue operations platform with event management, seating systems, media handling, and admin infrastructure.
+
+- **Midway Mobile Storage**  
+  Operational business platform with infrastructure-focused SEO, communications systems, and deployment management.
+
+- **Thunder Road Bar & Grill**  
+  Business platform and media workflow system focused on operational simplicity and maintainability.
+
+---
+
+## Engineering Posture
+
+- Favor boring, proven tools with predictable failure modes
+- Design for operational reality, not demos
+- Treat deployment and data integrity as first-class concerns
+- Prefer clarity over abstraction
+- Verify in production-like conditions whenever possible
+- Lock systems decisively once correctness is achieved
+
+---
+
+## Elsewhere
+
+- JAMARQ Digital → https://jamarq.digital
+- tenra → https://tenra.dev
+- GitHub → https://github.com/jmars319
