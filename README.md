@@ -18,7 +18,7 @@ My work sits at the intersection of:
 ## Current Focus
 
 ### JAMARQ Digital
-Production-grade business systems and operational infrastructure.
+Production-grade business systems, operational infrastructure, and custom software.
 
 Focused on:
 - real-world deployment reliability
@@ -26,28 +26,15 @@ Focused on:
 - media and workflow systems
 - environment-safe delivery
 - long-term maintainability
+- local-first desktop apps with explicit human oversight
 
-🌐 https://jamarq.digital
-
----
-
-### tenra
-Human-centered software systems for individuals and small teams.
-
-Focused on:
-- privacy-respecting tooling
-- local-first workflows
-- operational clarity
-- durable web infrastructure
-- AI-assisted systems with explicit human oversight
-
-Projects currently include:
+Software currently includes:
 - operational coordination tools
 - AI-assisted workflow systems
 - search and information-orientation tooling
 - developer-facing structured Q&A systems
 
-🌐 https://tenra.dev
+🌐 https://jamarq.digital
 
 ---
 
@@ -68,6 +55,7 @@ Focused on:
 ### Frontend
 - React
 - TypeScript
+- Next.js
 - Tailwind CSS
 - Vite
 - Electron / Tauri
@@ -77,6 +65,7 @@ Focused on:
 - PHP
 - REST APIs
 - MySQL
+- Turso / libSQL
 - Cloudflare
 - Vercel
 - AWS
@@ -104,6 +93,12 @@ Focused on:
 - **Thunder Road Bar & Grill**  
   Business platform and media workflow system focused on operational simplicity and maintainability.
 
+- **Midway Town Center**  
+  Shopping center platform with a storefront directory, leasing pipeline, center events, and admin tooling, built on Next.js, Turso, and R2.
+
+- **Bow Wow's Dog Spa**  
+  Grooming business platform with booking workflows, customer intake, and media management, moved from cPanel to Next.js, Turso, and R2.
+
 ---
 
 ## Engineering Posture
@@ -120,5 +115,4 @@ Focused on:
 ## Elsewhere
 
 - JAMARQ Digital → https://jamarq.digital
-- tenra → https://tenra.dev
 - GitHub → https://github.com/jmars319
